@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[link](https://mdsaib.github.io/portfolioMobileVersion/ )
+[link](https://mdsaib.github.io/capstone1/ )
 
 
 ### Prerequisites
@@ -41,7 +41,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/MdSaib/helloMicroverse/issues).
+Feel free to check the [issues page](https://github.com/MdSaib/capstone1/issues).
 
 ## Show your support
 
