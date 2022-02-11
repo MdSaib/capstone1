@@ -291,7 +291,7 @@ body {
   display: flex;
   justify-content: flex-end;
   align-items: baseline;
-  margin-left: 30px;
+  margin: 0 20px;
 }
 
 .performerDots {
@@ -389,7 +389,7 @@ body {
 }
 
 .footerLogo {
-  width: 50px;
+  width: 100px;
   margin-right: 50px;
 }
 
@@ -564,6 +564,11 @@ button:hover {
     font-size: 15px;
     justify-content: center;
     padding: 30px;
+  }
+
+  .footerLogo {
+    width: 50px;
+    margin-right: 50px;
   }
 }
 

@@ -1,20 +1,26 @@
-![](https://image.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
 
-# portfolioMobileVersion
+# music event website.
 
- This is my first capstone project at microverse. The project is about building an event website regarding Qawali Song Festival, Dhaka University 2022. Here I have write the program using html, css flex-box & javascript html DOM following the design standard provided by microverse. 
+ This is my first capstone project at microverse. The project is about building an music event website regarding Qawali Song Festival, Dhaka University 2022. Here I have write the program using html, css flex-box & javascript html DOM following the design standard provided by microverse. 
 
 
 
 ## Built With
 
-- html, css, javascript, github Pages
+- html, css, javascript
 
 ## Live Demo
 
 [link](https://mdsaib.github.io/capstone1/ )
 
+## Screenshot
+
+![screenshot1](image/screenshot1.png)
+![screenshot2](image/screenshot2.png)
+![screenshot3](image/screenshot3.png)
+![screenshot4](image/screenshot4.png)
 
 ### Prerequisites
 - knowledge of html, css, javascript DOM
