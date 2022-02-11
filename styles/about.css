@@ -40,7 +40,7 @@ body {
 }
 
 .social {
-  color: #d3d3d3; 
+  color: #d3d3d3;
 }
 
 .beforeNavLink {
@@ -106,7 +106,7 @@ body {
   background-repeat: no-repeat;
   background-position: top;
   background-size: 100%;
-  }
+}
 
 .defaultViewContainer {
   padding-top: 100px;
@@ -146,7 +146,7 @@ body {
   background-color: rgba(255, 255, 255, 0.8);
   border: solid 2px #d3d3d3;
   font-family: lato, sans-serif;
-  border-color: #fff
+  border-color: #fff;
 }
 
 .festivalContact {
@@ -177,7 +177,6 @@ body {
   justify-content: center;
   padding: 30px;
 }
-
 
 .mainSection {
   background-color: #d3d3d3;
@@ -267,8 +266,8 @@ body {
 }
 
 .card {
-margin-left: 20px;
-margin-right: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .cardOne {
@@ -309,24 +308,22 @@ margin-right: 20px;
   color: #d3d3d3;
 }
 
-
 .footerLogo {
   width: 100px;
   margin-right: 50px;
 }
 
-
 @media only screen and (max-width: 768px) {
-  
+
   .beforeNav {
     display: none;
   }
-  
+
   .header {
     background-color: #d3d3d3;
     justify-content: flex-start;
   }
-  
+
   .logo {
     display: none;
   }
@@ -334,7 +331,7 @@ margin-right: 20px;
   .nav {
     display: none;
   }
-  
+
   .navMobile {
     display: inline;
   }
@@ -349,11 +346,11 @@ margin-right: 20px;
     text-align: left;
     margin-left: 20px;
   }
-  
+
   .closeIcon {
     display: none;
   }
-  
+
   .navUlmobile {
     margin: 10px;
     position: fixed;
@@ -371,7 +368,7 @@ margin-right: 20px;
     display: block;
     padding-top: 50px;
   }
-  
+
   .navLinkMobile {
     color: #272a31;
     font-weight: 600;
@@ -379,37 +376,37 @@ margin-right: 20px;
     line-height: 44px;
     text-decoration: none;
   }
-  
+
   .showNavUlMobile {
     transform: translateY(0);
   }
-  
+
   .defaultViewContainer {
     padding: 70px 20px;
   }
-  
+
   .announceText {
     font-size: 15px;
   }
-  
+
   .festivalText {
     font-size: 35px;
     line-height: 35px;
   }
-  
+
   .festivalDescription {
     border: solid 3px ;
     font-size: 17px;
     margin-top: 40px;
     padding: 10px;
-    border-color: #fff
+    border-color: #fff;
   }
-  
+
   .festivalDate {
     font-size: 24px;
     margin-top: 40px;
   }
-  
+
   .festivalPlace {
     font-size: 15px;
   }
@@ -417,7 +414,7 @@ margin-right: 20px;
   .cardContainer {
     flex-direction: column;
   }
-    
+
   .sponsor {
     display: flex;
     flex-direction: column;

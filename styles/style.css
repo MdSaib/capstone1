@@ -41,7 +41,7 @@ body {
 }
 
 .social {
-  color: #d3d3d3; 
+  color: #d3d3d3;
 }
 
 .beforeNavLink {
@@ -56,7 +56,6 @@ body {
   justify-content: space-around;
   align-items: center;
 }
-
 
 .logo {
   display: block;
@@ -103,7 +102,7 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  }
+}
 
 .defaultViewContainer {
   padding-left: 200px;
@@ -121,10 +120,10 @@ body {
 
 .festivalTextArea {
   background-color: #FFE53B;
-  background-image: -webkit-linear-gradient(147deg, #FFE53B 0%, #FF2525 29%);
-  background-image: -moz-linear-gradient(147deg, #FFE53B 0%, #FF2525 29%);
-  background-image: -o-linear-gradient(147deg, #FFE53B 0%, #FF2525 29%);
-  background-image: linear-gradient(147deg, #FFE53B 0%, #FF2525 29%);
+  background-image: -webkit-linear-gradient(147deg, #ffe53b 0%, #ff2525 29%);
+  background-image: -moz-linear-gradient(147deg, #ffe53b 0%, #ff2525 29%);
+  background-image: -o-linear-gradient(147deg, #ffe53b 0%, #ff2525 29%);
+  background-image: linear-gradient(147deg, #ffe53b 0%, #ff2525 29%);
   background-repeat: no-repeat;
   background-position: center;
   color: transparent;
@@ -143,7 +142,7 @@ body {
 }
 
 .festivalDescription {
-  border: solid 5px ;
+  border: solid 5px;
   font-size: 15px;
   max-width: 80%;
   margin-top: 30px;
@@ -397,19 +396,18 @@ button:hover {
   cursor: pointer;
 }
 
-
 @media only screen and (max-width: 768px) {
-  
+
   .beforeNav {
     display: none;
   }
-  
+
   .header {
     background-color: #d3d3d3;
     justify-content: flex-start;
     padding: 0;
   }
-  
+
   .logo {
     display: none;
   }
@@ -417,7 +415,7 @@ button:hover {
   .nav {
     display: none;
   }
-  
+
   .navMobile {
     display: inline;
   }
@@ -432,11 +430,11 @@ button:hover {
     text-align: left;
     margin-left: 20px;
   }
-  
+
   .closeIcon {
     display: none;
   }
-  
+
   .navUlmobile {
     margin: 10px;
     position: fixed;
@@ -454,7 +452,7 @@ button:hover {
     display: block;
     padding-top: 50px;
   }
-  
+
   .navLinkMobile {
     color: #272a31;
     font-weight: 600;
@@ -462,7 +460,7 @@ button:hover {
     line-height: 44px;
     text-decoration: none;
   }
-  
+
   .showNavUlMobile {
     transform: translateY(0);
   }
@@ -471,16 +469,16 @@ button:hover {
     padding-top: 80px;
     padding-left: 20px;
   }
-  
+
   .announceText {
     font-size: 15px;
   }
-  
+
   .festivalText {
     font-size: 35px;
     line-height: 35px;
   }
-  
+
   .festivalDescription {
     border: solid 3px ;
     font-size: 17px;
@@ -488,16 +486,16 @@ button:hover {
     padding: 10px;
     border-color: #fff;
   }
-  
+
   .festivalDate {
     font-size: 24px;
     margin-top: 40px;
   }
-  
+
   .festivalPlace {
     font-size: 15px;
   }
-  
+
   .programs {
     margin-top: 60px;
   }
@@ -509,13 +507,13 @@ button:hover {
   .programAnnounce {
     margin-top: 40px;
   }
-  
+
   .programs hr {
     width: 35px;
     border-color: #ec5242;
     margin-bottom: 30px;
   }
-  
+
   .programBox {
     display: flex;
     flex-direction: row;
@@ -525,15 +523,15 @@ button:hover {
   .programTitle {
     margin: 0 12px;
   }
-  
+
   .programDescription {
     max-width: 300px;
   }
-  
+
   .programsButton {
     background-color: #ec5242;
     color: #fff;
-    width:40vw;
+    width: 40vw;
     height: 9vw;
     font-size: 20px;
     text-decoration: none;
@@ -544,13 +542,13 @@ button:hover {
     color: #d3d3d3;
     text-decoration: underline;
   }
-  
+
   /* performers section */
-  
+
   .performersGroup {
     flex-direction: column;
   }
-  
+
   .performerDots {
     margin-right: 0;
   }

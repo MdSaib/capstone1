@@ -15,12 +15,19 @@
 
 [link](https://mdsaib.github.io/capstone1/ )
 
+
 ## Screenshot
 
 ![screenshot1](image/screenshot1.png)
 ![screenshot2](image/screenshot2.png)
 ![screenshot3](image/screenshot3.png)
 ![screenshot4](image/screenshot4.png)
+
+
+## project explaining video
+
+[link](https://www.loom.com/share/93743b97c3c242659a71e84cb720d10d)
+
 
 ### Prerequisites
 - knowledge of html, css, javascript DOM
