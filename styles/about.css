@@ -314,7 +314,6 @@ body {
 }
 
 @media only screen and (max-width: 768px) {
-
   .beforeNav {
     display: none;
   }
@@ -364,7 +363,6 @@ body {
     background: #d3d3d3;
     opacity: 0.9;
     list-style: none;
-    margin: 10px;
     display: block;
     padding-top: 50px;
   }
@@ -395,7 +393,7 @@ body {
   }
 
   .festivalDescription {
-    border: solid 3px ;
+    border: solid 3px;
     font-size: 17px;
     margin-top: 40px;
     padding: 10px;
