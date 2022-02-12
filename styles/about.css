@@ -92,10 +92,6 @@ body {
   color: #272a31;
 }
 
-.navLinkAbout {
-  color: #ec5242;
-}
-
 .navLink:hover {
   cursor: pointer;
   color: #ec5242;
